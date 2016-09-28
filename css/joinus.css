@@ -1,0 +1,163 @@
+body {
+	margin:0px;
+	padding:0px;
+	font-family:Tahoma, Geneva, sans-serif;
+}
+.wrapper {
+	height:700px;
+	width:1349px;
+	margin:0 auto;
+	background-image:url(../images/background.jpg);
+	background-position:center;
+	background-size:cover;
+	background-repeat:no-repeat;	
+}
+.wrapper  .banner1 {
+	height:60px;
+}
+.wrapper .banner1 img{
+	float:left;
+	margin:0px;
+}
+ul, li {
+	margin:0px;
+	padding:0px;
+}
+.wrapper .banner1 ul li{
+	list-style:none;
+	display:inline-block;
+	float:right;
+	font-size:18px;
+	padding:15px;
+}
+.wrapper .banner1 a {
+	text-decoration:none;
+	color:#FFF;
+}
+.wrapper .banner1 a:hover {
+	text-decoration:underline;
+}
+.wrapper  .banner1:hover{
+	background-color:#F63;
+}
+	
+.login
+{
+	height:550px;
+	width:600px;
+	margin:0 auto;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:18px;
+	color:#FFF;
+	background-color:#00F;
+	padding:10px;
+	border:thick #000 2px;
+	border-radius: 25px;
+	margin-top:30px;
+}
+
+.login h1
+{
+	color:#F90;
+	font-size:24px;
+}
+.wrapper .footer {
+	background-color:#999;
+	height:300px;
+	width:1349px;
+}
+.wrapper .footer .footer1 {
+	height:300px;
+	width:449px;
+	float:left;	
+}
+.wrapper .footer .footer1 h2 {
+	color:#FFF;
+	margin-left:30px;	
+}
+.wrapper .footer .footer1 .googleplay {
+	height:80px;
+	width:250px;
+	margin-left:30px;
+	margin-top:40px;
+	background-image:url(../images/googleplay.png);
+	background-position:center;
+	background-size:contain;
+	background-repeat:no-repeat;
+}
+.wrapper .footer .footer1 .ios {
+	height:80px;
+	width:250px;
+	margin-left:38px;
+	margin-top:40px;
+	background-image:url(../images/apple.png);
+	background-size:contain;
+	background-repeat:no-repeat;
+}
+.wrapper .footer .footer2 {
+	height:300px;
+	width:449px;	
+	float:left;
+}
+.wrapper .footer .footer2 .box1 {
+	height:100px;
+}
+.wrapper .footer .footer2 h2 {
+	margin:0px;
+	color:#FFF;
+	padding:30px;
+	text-align:center;	
+}
+
+.wrapper .footer .footer2 .partners
+{
+	display:block;
+	margin:0 auto;
+}
+
+.wrapper .footer .footer2 ul li
+{
+	list-style:none;
+	padding:5px;
+	color:#FFF;
+	text-align:center;
+}
+.wrapper .footer .footer3 {
+	height:	300px;
+	width:449px;
+	float:left;
+}
+.wrapper .footer .footer3 .box1 {
+	height:100px;
+}
+.wrapper .footer .footer3 h2 {
+	margin:0px;
+	color:#FFF;
+	padding:30px;
+	text-align:center;	
+}
+
+.wrapper .footer .footer3 .facebook {
+	float:right;
+	height:50px;
+	width:80px;
+	margin-right:130px;
+	margin-top:50px;
+	background-image:url(../images/facebook.png);
+	background-position:center;
+	background-size:contain;
+	background-repeat:no-repeat;
+}
+.wrapper .footer .footer3 .twitter {
+	float:right;
+	height:50px;
+	width:80px;
+	margin-right:130px;
+	margin-top:10px;
+	background-image:url(../images/twitter.png);
+	background-position:center;
+	background-size:contain;
+	background-repeat:no-repeat;	
+}
+
+
